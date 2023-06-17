@@ -1,7 +1,7 @@
 package com.example.myapplication
 
 
-class Student(name : String, surname : String, pn : String, profpic : String, mail : String) {
+class Student(name: String, surname: String, pn: String, profpic: String, mail: String) {
     var Name : String = name
     var Surname : String = surname
     var PersonalNumber : String = pn
